@@ -1,4 +1,3 @@
-DelfinMong/README.md
 
 HiHi 🤗
 You found me! I am Delfin Kamar Mongendu ! Full Stack Web Developer, which feels good to say, it has been a long path to get a passion that can be work. Nice to Meet Ya:
